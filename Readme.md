@@ -108,10 +108,6 @@ Out of the transactions only 30,000 are fraudulent in nature. Thus it is highly 
 2. It was seen that oversampling fraud data and undersampling non-fraudulent data allowed for the models to train better and have better f1 scores and were robust enough to detect outliers.
 3. In the majority of the models the best results were seen with robust scaling of the data.
 
-## Member Contributions
-1. **Aruj Deshwal**-Random Forest, Pre-Processing, Literature Review, finding Dataset, Hyperparameter tuning, Neural Network.
-2. **Abhinav Rawat**- Pre-Processing, Logistic Regression, Data Cleaning, Feature analysis ,Finding Dataset, Hyperparameter tuning.
-3. **Sudeep Reddy**- Literature Review, feature analysis, Decision Tree, Naive Bayes, Pre-processing , SVM.
 
 
 
